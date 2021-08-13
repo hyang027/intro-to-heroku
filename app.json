@@ -1,0 +1,11 @@
+{
+  "name": "dreamhouse-web-app",
+  "description": "DreamHouse Web App",
+  "keywords": [
+    "app-cloud"
+  ],
+  "repository": "https://github.com/hyang027/intro-to-heroku",
+  "addons": [
+    "heroku-postgresql"
+  ]
+}
